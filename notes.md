@@ -63,12 +63,19 @@ Let's see if ***these*** changes show up :)
   - [push notifications](https://jawbone.com/up/developer/pubsub) are "pub sub"
     - **Berman**, is there a different between a "callback" and a "push event"? 
   - [jawbone oauth diagram](https://jawbone.com/up/developer/authentication)
+  - Adi votes for this convention
 
 **Fitbit**
 
   - [pull Resources](https://wiki.fitbit.com/display/API/Fitbit+Resource+Access+API)
   - [push Subscriptions](https://wiki.fitbit.com/display/API/Fitbit+Subscriptions+API) "**subscribe** to any changes in a user's data." "notify via an HTTP callback"
   - [fitbit oath diagram](https://wiki.fitbit.com/display/API/OAuth+Authentication+in+the+Fitbit+API#OAuthAuthenticationintheFitbitAPI-TheOAuthFlow)
+
+**Stripe**  
+  - They use **objects**. Maybe we could say 'complex object' vs. notification. or just say that notifications are a type of object that you subscribe to vs. other objects that you request.
+  - Among the objects is the **[event object](https://stripe.com/docs/api#event_types)**  
+  - They have `data` as an `array` https://stripe.com/docs/api#pagination
+ 
 
 **Nest**
 
