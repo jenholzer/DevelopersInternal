@@ -3,27 +3,10 @@
 ## Learning GitHub & Markdown 
 
 
- - here's an attempt at a list!
- - and it seems to be working!
- - yppie!
- - now, can i indent?
-	 - 	we'll see  
- - what about now?
- - ok. it kinda owrks.
-	 - not perfect	
-	 - but not that bad either
-	 - hmm i wonder 
- - we'll see
- - ok.
- - i think this'll do.
- - MacDown!
-
-
-
-
-Let's see if ***these*** changes show up :)
-
 **Resources I'm using**
+- MacDown edit is the best that I found http://macdown.uranusjr.com/ I also considered
+  - http://stackedit.io but it required internet access and http://25.io/mou/ but it's interface wasn't clean enough for me. 
+- https://dabuttonfactory.com/ to make cute, easy buttons.
 - [ReadWrite tutorial for GitHub](http://readwrite.com/2013/10/02/github-for-beginners-part-2) 
 - [Write with Markdown on Google Drive](https://www.youtube.com/watch?v=VAx_Xf0KNfg)
 - [SatckEdit on GitHub](https://github.com/benweet/stackedit)
@@ -38,7 +21,6 @@ Let's see if ***these*** changes show up :)
 
 
 
-
 ----------
 
 **git commands**
@@ -49,6 +31,10 @@ Let's see if ***these*** changes show up :)
   - git pull
 
 ----------------
+
+
+Let's use this!
+https://github.com/showcases/projects-with-great-wikis
 
 
 **Mike took 'data objects' from Automatic. What do Fitbit, Jawbone, & Nest say? let's benchmark with them. Keep it simple.**
