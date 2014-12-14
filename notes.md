@@ -62,6 +62,11 @@ https://github.com/showcases/projects-with-great-wikis
   - Among the objects is the **[event object](https://stripe.com/docs/api#event_types)**  
   - They have `data` as an `array` https://stripe.com/docs/api#pagination
  
+ 
+ **Misfit**  
+  - FAQ http://misfit.com/support
+  - 
+
 
 **Nest**
 
