@@ -23,7 +23,7 @@
 
 ----------
 
-**git commands**
+###git commands
   - git status
   - git add
   - git commit
