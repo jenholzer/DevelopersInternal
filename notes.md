@@ -23,10 +23,10 @@
 
 ----------
 
-**git commands**
+###git commands
   - git status
-  - git add
-  - git commit
+  - git add -A
+  - git commit -m "blurb about the changes"
   - git push
   - git pull
 
