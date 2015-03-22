@@ -12,7 +12,7 @@ Companies typically sponsor Startup Bike as a PR & recruiting opportunity to con
 
 - **Food & drinks**. It's up to you how fancy you want to be -- some sponsors just serve pizza and beer while others have nice catering and hand out schwag.  Our meetup members are there for the startup and the bicycling; the food & schwag are just 'nice to have.'
 
-- **Co-host**. [An organizer](http://www.meetup.com/Startup-Bike-SF/members/?op=leaders) will lead the ride, but we'll need someone from your company as a point person to coordinate our visit and talk about your work.  
+- **Co-host**. [An organizer](http://www.meetup.com/Startup-Bike-SF/members/?op=leaders) will lead the ride, but we'll need someone from your company as a point person to coordinate our visit and talk about your work. Sponsors typically talk for a few minutes about the gist of their business. If you have any cool stories or fun facts about your company and bicycles, we'd love to hear about it.
 
 - **Bike parking**. We'll need a secure space to park our bikes.  
 
