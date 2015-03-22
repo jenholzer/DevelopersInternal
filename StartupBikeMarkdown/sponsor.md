@@ -1,8 +1,6 @@
-##Interested in spnosoring a ride?
+##Interested in sponsoring a ride?
 
-
-
-
+Companies typically sponsor Startup Bike as a PR & recruiting opportunity to connect with the tech community in an intimate setting.  Our organizers will plan the event; you'll provide the setting and refreshments.
 
 ###Here are the details for you to sponsor a Startup Bike meetup
 
