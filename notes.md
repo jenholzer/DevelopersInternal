@@ -29,6 +29,7 @@
   - git commit -m "blurb about the changes"
   - git push
   - git pull
+  - git checkout [branch name]   <-- this is the command for switching branches in Unix
 
 ----------------
 
