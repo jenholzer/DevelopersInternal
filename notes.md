@@ -2,6 +2,8 @@
 # Mike's GitHub notes 
 ## Learning GitHub & Markdown 
 
+:beer:
+:walk:
 
 **Resources I'm using**
 - MacDown edit is the best that I found http://macdown.uranusjr.com/ I also considered
