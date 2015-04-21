@@ -2,7 +2,7 @@
 This page will link you to resources that will help expedite requests from users.
 
 * [Create node location](https://github.com/jenholzer/DevelopersInternal/blob/master/CreateNodeLocation)  
-* [Create node person]()  
+* [Create node person](https://github.com/jenholzer/DevelopersInternal/blob/master/CreateNodeLocation)  
 * [Create label]()  
 * [Create user]()  
 * [Send channel]()  
