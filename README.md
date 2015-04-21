@@ -1,13 +1,30 @@
-apricot
-=======
+###Neura Developer Resources
+This page will link you to resources that will help expedite requests from users.
 
-Mike's first project with Github. Yay!
+[Create node location]()
+[Create node person]()
 
-I wonder if this will show up in **markdown** 
-We'll see!
+[Create label]()
 
-![random image](http://imgs.xkcd.com/comics/im_so_random.png)
+###Neura Internal Developer Resources
+This page will link you to resources that will help expedite requests from users.
 
-[![kind of blue]](https://www.youtube.com/watch?v=HMPL_ACKmHk)
+* [Create node location]()  
+* [Create node person]()  
+* [Create label]()  
+* [Create user]()  
+* [Send channel]()  
+* [Get timeline]()  
+* [API event subscription home card]()  
+* [API event subscription gym card]() 
+* [API delete event subscription]()
+* [Delete nodes]()
+* [Delete labels]()
+* [Cards check suggestion to template IDs]() 
+* [Cards check text suggestions]()
+* [P2P event distribution]()
+* [Permissions for third party users]()
+* [Daily summary]() 
+* [Subscriptions to third party events]()
 
-
+Have a suggestion for a new page?  Let us know at ...
