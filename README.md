@@ -1,11 +1,3 @@
-###Neura Developer Resources
-This page will link you to resources that will help expedite requests from users.
-
-[Create node location]()
-[Create node person]()
-
-[Create label]()
-
 ###Neura Internal Developer Resources
 This page will link you to resources that will help expedite requests from users.
 
