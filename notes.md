@@ -3,7 +3,7 @@
 ## Learning GitHub & Markdown 
 
 :beer:
-:walk:
+:walking:
 
 **Resources I'm using**
 - MacDown edit is the best that I found http://macdown.uranusjr.com/ I also considered
