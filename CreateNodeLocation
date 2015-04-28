@@ -1,7 +1,7 @@
 ###Create Node Location
 This API is going to get all the nodes for a certain user:
 ## The response you'll get in JSON:
-
+```json
 {
 "nodes": [
 {
@@ -37,7 +37,7 @@ This API is going to get all the nodes for a certain user:
 }
 ]
 }
-
+```
 Instructions
 
 Use postman (or any other tool which imitate API requests):
