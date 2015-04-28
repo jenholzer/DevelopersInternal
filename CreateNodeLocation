@@ -38,9 +38,22 @@ The response you'll get in JSON:
 ]
 }
 
+Instructions
+
 Use postman (or any other tool which imitate API requests):
 
-1. put as a URL request the following address: wapi.theneura.com/api/nodes
-2. in the header use the following params
+1. Under the Normal tab, select a GET request.
+2. Under Request URL enter: wapi.theneura.com/api/nodes
+3. For Header use the following params:
+   3.1 Content-Type  application/json
+   3.2 Authorization Bearer daac69bfdec1e980578588b26b5e2fb0749a82a117f50cbbdc922552ec66f855
+   
+what you'll send: 
+
+GET /api/nodes HTTP/1.1
+Host: wapi.theneura.com
+Content-Type: application/json
+Authorization: Bearer daac69bfdec1e980578588b26b5e2fb0749a82a117f50cbbdc922552ec66f855
+Cache-Control: no-cache
 
 [Return to the Main Page](https://github.com/jenholzer/DevelopersInternal#neura-internal-developer-resources)
