@@ -1,6 +1,6 @@
 ###Create Node Location
 This API is going to get all the nodes for a certain user:
-The response you'll get in JSON:
+##The response you'll get in JSON:
 
 {
 "nodes": [
